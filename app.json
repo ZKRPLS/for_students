@@ -1,0 +1,22 @@
+{
+  "id": "d1909c4e-7f7d-4fab-ad6f-90a5333f5d62",
+  "name": "git_training",
+  "publisher": "student",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
